@@ -6,7 +6,7 @@ namespace Grupo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Batman es el mejor");
         }
     }
 }
